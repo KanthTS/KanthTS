@@ -1,4 +1,4 @@
-# Hi there, I'm Kanth 👋  
+# Hi there, I'm Lakshmi Kanth 👋  
 
 🎓 **Pre-Final Year B.Tech CSE Student**  
 💻 **MERN Stack Developer | Full-Stack Web Enthusiast**  
