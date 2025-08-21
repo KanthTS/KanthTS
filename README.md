@@ -26,13 +26,7 @@
 
 ---
 
-## 📊 GitHub Stats  
 
-![Kanth's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight)  
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight)  
-
----
 
 ## 📌 Projects  
 
