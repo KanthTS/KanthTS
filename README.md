@@ -43,5 +43,4 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tsiddakanth@gmail.com)  
 
 ---
-
-⭐️ *“Code is like humor. When you have to explain it, it’s bad.”*  
+⭐️ “Design it, build it, deploy it—end to end.”
