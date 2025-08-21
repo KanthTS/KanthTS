@@ -1,6 +1,5 @@
-# Hi there, I'm Kanth 👋  
+# Hi there, I'm Lakshmi Kanth 👋  
 
-<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="150" align="right" />
 
 🎓 **Pre-Final Year B.Tech CSE Student**  
 💻 **MERN Stack Developer | Full-Stack Web Enthusiast**  
@@ -30,16 +29,13 @@
 ## 📊 GitHub Stats  
 
 ![Kanth's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight)  
+
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight)  
 
 ---
 
 ## 📌 Projects  
 
-- 🔑 **Authentication System** → MERN-based user login/register with JWT  
-- 🛒 **E-Commerce Web App** → Full-stack shopping site with cart & payments  
-- 📊 **Dashboard Analytics** → React + Node.js dashboard with charts & APIs  
 - 📂 **Interview Project Data** → A data-driven MERN project built for managing interview and placement records efficiently  
 - 🌾 **Farmer Labour Job Portal** → A web platform connecting farmers and laborers for agricultural job opportunities  
 
