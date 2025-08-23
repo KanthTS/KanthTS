@@ -1,6 +1,5 @@
 # Hi there, I'm Lakshmi Kanth 👋  
 
-
 🎓 **Pre-Final Year B.Tech CSE Student at VNRVJIET**  
 💻 **MERN Stack Developer | Full-Stack Web Enthusiast**  
 🌱 Currently exploring **Cloud, APIs, System Design, and Java Development**  
@@ -9,8 +8,6 @@
 ---
 
 ## 🔧 Tech Stack  
-
-
 
 ### 🚀 Languages & Frameworks  
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
@@ -28,12 +25,17 @@
 
 ---
 
-
-
 ## 📌 Projects  
 
 - 📂 **Interview Project Data** → A data-driven MERN project built for managing interview and placement records efficiently  
 - 🌾 **Farmer Labour Job Portal** → A web platform connecting farmers and laborers for agricultural job opportunities  
+
+---
+
+## 👨‍💻 Coding Profiles  
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Kanth_TS/)  
+[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/kanthts)  
 
 ---
 
@@ -43,4 +45,5 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tsiddakanth@gmail.com)  
 
 ---
-⭐️ “Design it, build it, deploy it—end to end.”
+
+⭐️ “Design it, build it, deploy it—end to end.”  
