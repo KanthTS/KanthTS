@@ -28,8 +28,17 @@
 
 ## 📌 Projects  
 
-- 📂 **Interview Project Data** → A data-driven MERN project built for managing interview and placement records efficiently  
-- 🌾 **Farmer Labour Job Portal** → A web platform connecting farmers and laborers for agricultural job opportunities  
+- 📂 **Interview Project Data**  
+  A full-stack **MERN application** designed to streamline interview and placement record management for students.  
+  It allows admin to add, update, and track candidate details, interview schedules, and results with secure data handling.  
+  Integrated **REST APIs** for CRUD operations and used **MongoDB** for structured data storage.  
+  Enhanced search and filtering features for quick insights, improving productivity for placement teams.  
+
+- 🌾 **Farmer Labour Job Portal**  
+  A web-based platform that bridges the gap between farmers in need of labor and workers seeking jobs.  
+  Developed using **React.js** (frontend) and **Node.js + Express.js** (backend) with **MongoDB** for data persistence.  
+  Features include **real-time job postings, farmer-laborer matching, and authentication with JWT** for secure access.  
+  Aims to empower rural communities by providing a transparent and accessible digital hiring solution.  
 
 ---
 
