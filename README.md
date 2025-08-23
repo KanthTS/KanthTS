@@ -36,7 +36,7 @@
   🗂️ Focused on **efficient record storage, search, and analytics** for placement drives.  
 
 - 🌾 **Farmer Labour Job Portal**  
-  A web platform connecting farmers and laborers for agricultural job opportunities.  
+ Currently working on this Project: A web platform connecting farmers and laborers for agricultural job opportunities.  
   Tech Stack: ![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=flat-square&logo=mongodb&logoColor=white) 
   ![Express.js](https://img.shields.io/badge/Express.js-404d59?style=flat-square&logo=express&logoColor=white) 
   ![React](https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61DAFB) 
