@@ -27,18 +27,21 @@
 ---
 
 ## 📌 Projects  
-
 - 📂 **Interview Project Data**  
-  A full-stack **MERN application** designed to streamline interview and placement record management for students.  
-  It allows admin to add, update, and track candidate details, interview schedules, and results with secure data handling.  
-  Integrated **REST APIs** for CRUD operations and used **MongoDB** for structured data storage.  
-  Enhanced search and filtering features for quick insights, improving productivity for placement teams.  
+  A full-stack MERN application designed to streamline interview and placement record management.  
+  Tech Stack: ![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=flat-square&logo=mongodb&logoColor=white) 
+  ![Express.js](https://img.shields.io/badge/Express.js-404d59?style=flat-square&logo=express&logoColor=white) 
+  ![React](https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61DAFB) 
+  ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)  
+  🗂️ Focused on **efficient record storage, search, and analytics** for placement drives.  
 
 - 🌾 **Farmer Labour Job Portal**  
-  A web-based platform that bridges the gap between farmers in need of labor and workers seeking jobs.  
-  Developed using **React.js** (frontend) and **Node.js + Express.js** (backend) with **MongoDB** for data persistence.  
-  Features include **real-time job postings, farmer-laborer matching, and authentication with JWT** for secure access.  
-  Aims to empower rural communities by providing a transparent and accessible digital hiring solution.  
+  A web platform connecting farmers and laborers for agricultural job opportunities.  
+  Tech Stack: ![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=flat-square&logo=mongodb&logoColor=white) 
+  ![Express.js](https://img.shields.io/badge/Express.js-404d59?style=flat-square&logo=express&logoColor=white) 
+  ![React](https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61DAFB) 
+  ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)  
+  🌾👷 Built to **empower rural communities** with transparent hiring solutions.  
 
 ---
 
