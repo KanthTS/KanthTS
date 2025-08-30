@@ -3,7 +3,7 @@
 🎓 **Pre-Final Year B.Tech CSE Student at VNRVJIET**  
 💻 **MERN Stack Developer|Java Developer | Full-Stack Web Enthusiast**  
 🌱 Currently exploring ** APIs, System Design, and Java Development**  
-⚡ Love turning **ideas into scalable web apps**  
+⚡ Love turning **ideas into scalable Web Sites**  
 
 ---
 
