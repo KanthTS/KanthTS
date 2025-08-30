@@ -1,7 +1,7 @@
 # Hi there, I'm Lakshmi Kanth 👋  
 
 🎓 **Pre-Final Year B.Tech CSE Student at VNRVJIET**  
-💻 **MERN Stack Developer | Full-Stack Web Enthusiast**  
+💻 **MERN Stack Developer|Java Developer | Full-Stack Web Enthusiast**  
 🌱 Currently exploring ** APIs, System Design, and Java Development**  
 ⚡ Love turning **ideas into scalable web apps**  
 
