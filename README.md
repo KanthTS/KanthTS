@@ -30,6 +30,7 @@
 ---
 
 ## 📌 Projects  
+
 - 📂 **Interview Project Data**  
   A full-stack MERN application designed to streamline interview and placement record management.  
   Tech Stack: ![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=flat-square&logo=mongodb&logoColor=white) 
@@ -39,12 +40,23 @@
   🗂️ Focused on **efficient record storage, search, and analytics** for placement drives.  
 
 - 🌾 **Farmer Labour Job Portal**  
- Currently working on this Project: A web platform connecting farmers and laborers for agricultural job opportunities.  
+  Currently working on this Project: A web platform connecting farmers and laborers for agricultural job opportunities.  
   Tech Stack: ![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=flat-square&logo=mongodb&logoColor=white) 
   ![Express.js](https://img.shields.io/badge/Express.js-404d59?style=flat-square&logo=express&logoColor=white) 
   ![React](https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61DAFB) 
   ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)  
   🌾👷 Built to **empower rural communities** with transparent hiring solutions.  
+
+- 🎨 **Ghibli Art Generator**  
+  A full-stack application that creates **Studio Ghibli-style AI images** from text prompts and images using Stability AI.  
+  Tech Stack: ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white) 
+  ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white) 
+  ![Spring](https://img.shields.io/badge/Spring_Framework-6DB33F?style=flat-square&logo=spring&logoColor=white) 
+  ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white) 
+  ![React](https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61DAFB) 
+  ![REST API](https://img.shields.io/badge/REST-02569B?style=flat-square&logo=api&logoColor=white) 
+  ![Stability AI](https://img.shields.io/badge/Stability_AI-000000?style=flat-square&logo=stabilityai&logoColor=white)  
+  🎬 Focused on **AI-powered creativity** by blending **Java Spring Boot backend**, **React frontend**, and **AI image generation**.
 
 ---
 
