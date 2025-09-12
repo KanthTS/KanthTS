@@ -1,3 +1,7 @@
+
+<img width="1584" height="396" alt="White Minimalist Corporate Personal Profile LinkedIn Banner" src="https://github.com/user-attachments/assets/a4588603-096f-4096-bf33-1ad7217225fd" />
+
+
 # Hi there, I'm Lakshmi Kanth 👋  
 
 🎓 **Pre-Final Year B.Tech CSE Student at VNRVJIET**  
