@@ -1,6 +1,6 @@
 
-<img width="1584" height="396" alt="White Minimalist Corporate Personal Profile LinkedIn Banner" src="https://github.com/user-attachments/assets/a4588603-096f-4096-bf33-1ad7217225fd" />
 
+<img width="1584" height="396" alt="Email tsiddakanth@gmail com (1)" src="https://github.com/user-attachments/assets/c0eb42dd-87e6-400a-af1d-0f90b2afc2fc" />
 
 # Hi there, I'm Lakshmi Kanth 👋  
 
