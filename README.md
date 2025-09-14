@@ -10,10 +10,13 @@
 ⚡ Love turning **ideas into scalable Web Sites**  
 
 ---
-## 📄 Resume  
+<h2 align="center">📄 My Resume</h2>
 
-[![Resume](https://img.shields.io/badge/View%20My%20Resume-PDF-red?style=for-the-badge&logo=adobeacrobatreader)](https://github.com/user-attachments/files/22322986/kanth.resume.new.pdf)
-
+<p align="center">
+  <a href="https://github.com/user-attachments/files/22322986/kanth.resume.new.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/Click%20Here%20to%20View%20My%20Resume-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
+  </a>
+</p>
 
 ## 🔧 Tech Stack  
 
