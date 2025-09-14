@@ -33,7 +33,6 @@
 ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255.svg?style=for-the-badge&logo=eclipse-ide&logoColor=white)
 
 ---
-[![GitHub Streak](https://streak-stats.demolab.com?user=KanthTS&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 
 ## 📌 Projects  
