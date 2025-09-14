@@ -39,7 +39,6 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KanthTS&layout=compact&theme=radical)  
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=KanthTS&theme=radical&hide_border=true)](https://git.io/streak-stats)
 
 
 ## 📌 Projects  
