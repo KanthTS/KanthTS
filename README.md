@@ -33,6 +33,13 @@
 ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255.svg?style=for-the-badge&logo=eclipse-ide&logoColor=white)
 
 ---
+## 📊 GitHub Stats  
+
+![KanthTS's GitHub Stats](https://github-readme-stats.vercel.app/api?username=KanthTS&show_icons=true&theme=radical&count_private=true)  
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KanthTS&layout=compact&theme=radical)  
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=KanthTS&theme=radical&hide_border=true)](https://git.io/streak-stats)
 
 
 ## 📌 Projects  
