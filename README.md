@@ -12,7 +12,7 @@
 ---
 ## 📄 Resume  
 
-[![Resume](https://img.shields.io/badge/View%20My%20Resume-PDF-red?style=for-the-badge&logo=adobeacrobatreader)](https://github.com/user-attachments/files/22322986/kanth.resume.pdf)
+[![Resume](https://img.shields.io/badge/View%20My%20Resume-PDF-red?style=for-the-badge&logo=adobeacrobatreader)](https://github.com/user-attachments/files/22322986/kanth.resume.new.pdf)
 
 ## 🔧 Tech Stack  
 
