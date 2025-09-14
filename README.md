@@ -34,6 +34,8 @@
 
 ---
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=KanthTS&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+
 ## 📌 Projects  
 
 - 📂 **Interview Project Data**  
