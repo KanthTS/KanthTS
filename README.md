@@ -11,6 +11,9 @@
 
 ---
 
+[kanth resume new.pdf](https://github.com/user-attachments/files/22322986/kanth.resume.new.pdf)
+
+
 ## 🔧 Tech Stack  
 
 ### 🚀 Languages & Frameworks  
