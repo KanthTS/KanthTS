@@ -11,8 +11,9 @@
 
 ---
 ## 📄 Resume  
+## 🔗 Download Resume
+[**Click here to view/download my Resume (PDF)**](67cd0d2c-7809-4803-ab7d-76f7bae97acb.pdf)
 
-[![Resume](https://img.shields.io/badge/🚀%20View%20My%20Resume-Click%20Here-brightgreen?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://github.com/user-attachments/files/22322986/kanth.resume.new.pdf)
 
 
 ## 🔧 Tech Stack  
