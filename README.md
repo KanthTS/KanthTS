@@ -11,8 +11,9 @@
 
 ---
 ## 📄 Resume  
-## 🔗 Download Resume
-[**Click here to view/download my Resume (PDF)**](67cd0d2c-7809-4803-ab7d-76f7bae97acb.pdf)
+[![Download Resume](https://img.shields.io/badge/Download-Resume-blue?style=for-the-badge&logo=adobeacrobatreader)](67cd0d2c-7809-4803-ab7d-76f7bae97acb.pdf)
+
+---
 
 
 
