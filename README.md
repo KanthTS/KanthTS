@@ -10,7 +10,9 @@
 ⚡ Love turning **ideas into scalable Web Sites**  
 
 ---
-[![Download Resume](https://img.shields.io/badge/Download-Resume-blue?style=for-the-badge&logo=adobeacrobatreader)](https://raw.githubusercontent.com/your-username/your-repo/main/Main(one).pdf)
+## 📄 Resume  
+
+[![Download Resume](https://img.shields.io/badge/Download-Resume-blue?style=for-the-badge&logo=adobeacrobatreader)](./Main(one).pdf)
 ---
 
 
