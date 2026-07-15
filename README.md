@@ -43,22 +43,12 @@
 
 ## 📌 Projects  
 
-**Agentic AI — Learning & Experiments**
-
-Hands-on journey into Agentic AI systems as part of my Agentic AI Internship at Varasoul, following the official Anthropic Learning Path (11 structured courses).
-
-Agentic AI refers to AI systems that go beyond simple question-answering — they can reason through multi-step problems, use tools, take actions, and work toward goals autonomously. Instead of just generating text, an AI agent can:
-
+* 🤖 Agentic AI — Learning & Experiments
+Currently doing this as part of my Agentic AI Internship at Varasoul: hands-on learning through the official Anthropic Learning Path (11 structured courses) covering Claude APIs, prompt engineering, tool use, and building AI agents.
+Tech Stack: Anthropic Claude API, Node.js, JavaScript, Prompt Engineering, MCP
+🧠 Focused on building AI agents that can reason through multi-step problems, use tools, and complete goals autonomously — not just generate text.
 
 
-
-- 📂 **Interview Project Data**  
-  A full-stack MERN application designed to streamline interview and placement record management.  
-  Tech Stack: ![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=flat-square&logo=mongodb&logoColor=white) 
-  ![Express.js](https://img.shields.io/badge/Express.js-404d59?style=flat-square&logo=express&logoColor=white) 
-  ![React](https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61DAFB) 
-  ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)  
-  🗂️ Focused on **efficient record storage, search, and analytics** for placement drives.  
 
 - 🌾 **Farmer Labour Job Portal**  
   Currently working on this Project: A web platform connecting farmers and laborers for agricultural job opportunities.  
@@ -66,7 +56,15 @@ Agentic AI refers to AI systems that go beyond simple question-answering — the
   ![Express.js](https://img.shields.io/badge/Express.js-404d59?style=flat-square&logo=express&logoColor=white) 
   ![React](https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61DAFB) 
   ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)  
-  🌾👷 Built to **empower rural communities** with transparent hiring solutions.  
+  🌾👷 Built to **empower rural communities** with transparent hiring solutions.
+  
+  - 📂 **Interview Project Data**  
+  A full-stack MERN application designed to streamline interview and placement record management.  
+  Tech Stack: ![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=flat-square&logo=mongodb&logoColor=white) 
+  ![Express.js](https://img.shields.io/badge/Express.js-404d59?style=flat-square&logo=express&logoColor=white) 
+  ![React](https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61DAFB) 
+  ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)  
+  🗂️ Focused on **efficient record storage, search, and analytics** for placement drives.  
 
 - 🎨 **Ghibli Art Generator**  
   A full-stack application that creates **Studio Ghibli-style AI images** from text prompts and images using Stability AI.  
