@@ -58,7 +58,7 @@ Tech Stack: Anthropic Claude API, Node.js, JavaScript, Prompt Engineering, MCP
   ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)  
   🌾👷 Built to **empower rural communities** with transparent hiring solutions.
   
-  - 📂 **Interview Project Data**  
+- 📂 **Interview Project Data**  
   A full-stack MERN application designed to streamline interview and placement record management.  
   Tech Stack: ![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=flat-square&logo=mongodb&logoColor=white) 
   ![Express.js](https://img.shields.io/badge/Express.js-404d59?style=flat-square&logo=express&logoColor=white) 
