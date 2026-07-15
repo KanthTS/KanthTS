@@ -43,6 +43,26 @@
 
 ## 📌 Projects  
 
+Agentic AI — Learning & Experiments
+
+Hands-on journey into Agentic AI systems as part of my Agentic AI Internship at Varasoul, following the official Anthropic Learning Path (11 structured courses).
+
+
+📌 What is Agentic AI?
+
+Agentic AI refers to AI systems that go beyond simple question-answering — they can reason through multi-step problems, use tools, take actions, and work toward goals autonomously. Instead of just generating text, an AI agent can:
+
+
+🔧 Use tools — call APIs, search the web, query databases, run code
+🧠 Plan & reason — break a complex task into steps and execute them one by one
+🔁 Iterate & self-correct — evaluate its own output and retry when something fails
+🤝 Orchestrate workflows — coordinate multiple sub-tasks (or multiple agents) to complete a larger goal
+
+
+In short: LLM + tools + memory + a control loop = an agent.
+
+
+
 - 📂 **Interview Project Data**  
   A full-stack MERN application designed to streamline interview and placement record management.  
   Tech Stack: ![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=flat-square&logo=mongodb&logoColor=white) 
